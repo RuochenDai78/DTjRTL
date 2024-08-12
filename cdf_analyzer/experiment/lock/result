@@ -1,0 +1,4 @@
+Signal lock.state(type:Output,module:lock,lineno:5,depth:0)<--['lock.state', 'lock.state', 'lock.state', 'lock.state', 'lock.state'] Depth 2
+('lock.reset_n', 12)->('Op_lock.reset_n', 12)->('lock.state', 20)->('lock.state', 5)->End
+Signal lock.unlocked(type:Output,module:lock,lineno:6,depth:0)<--['lock.unlocked'] Depth 3
+('lock.reset_n', 12)->('Op_lock.reset_n', 12)->('lock.state', 20)->('lock.state', 5)->('lock.state', 9)->('lock.state_Op_Constant_1', 9)->('Cond_2', 9)->('lock.unlocked', 9)->('lock.unlocked', 6)->End

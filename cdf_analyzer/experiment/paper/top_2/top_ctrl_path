@@ -1,0 +1,12 @@
+('scfa_demo.A_is_Max', 6, 0)
+["('top.top_A', 29)<-", "('top.top_A_Op_Constant_7', 29)<-", "('top.a_inter', 29)<-", "('top.a_inter', 22)<-", "('top.a_inter', 24)<-", "('scfa_demo.A', 2)<-", "('scfa_demo.A', 6)<-", "('scfa_demo.A_Op_Constant_0', 6)<-", "('Op_scfa_demo.A_Op_Constant_0', 6)<-", "('scfa_demo.A_is_Max', 6)<-Input"]
+('scfa_demo.Result', 10, 1)
+["('top.top_A', 29)<-", "('top.top_A_Op_Constant_7', 29)<-", "('top.a_inter', 29)<-", "('top.a_inter', 22)<-", "('top.a_inter', 24)<-", "('scfa_demo.A', 2)<-", "('scfa_demo.A', 9)<-", "('scfa_demo.A_Op_scfa_demo.B', 9)<-", "('scfa_demo.Result', 10)<-Input"]
+('scfa_demo.Result', 12, 1)
+["('top.top_A', 29)<-", "('top.top_A_Op_Constant_7', 29)<-", "('top.a_inter', 29)<-", "('top.a_inter', 22)<-", "('top.a_inter', 24)<-", "('scfa_demo.A', 2)<-", "('scfa_demo.A', 9)<-", "('scfa_demo.A_Op_scfa_demo.B', 9)<-", "('scfa_demo.Result', 12)<-Input"]
+('scfa_demo.Result', 13, 1)
+["('top.top_A', 29)<-", "('top.top_A_Op_Constant_7', 29)<-", "('top.a_inter', 29)<-", "('top.a_inter', 22)<-", "('top.a_inter', 24)<-", "('scfa_demo.A', 2)<-", "('scfa_demo.A', 9)<-", "('scfa_demo.A_Op_scfa_demo.B', 9)<-", "('scfa_demo.Result', 13)<-Input"]
+('top.top_ret', 28, 2)
+["('top.top_A', 29)<-", "('top.top_A_Op_Constant_7', 29)<-", "('top.a_inter', 29)<-", "('top.a_inter', 22)<-", "('top.a_inter', 24)<-", "('scfa_demo.A', 2)<-", "('scfa_demo.A', 9)<-", "('scfa_demo.A_Op_scfa_demo.B', 9)<-", "('scfa_demo.Result', 13)<-", "('scfa_demo.Result', 3)<-", "('top.flag', 26)<-", "('top.flag', 21)<-", "('top.flag', 28)<-", "('Cond_4', 28)<-", "('top.top_ret', 28)<-Input"]
+('top.a_inter', 29, 0)
+["('top.top_A', 29)<-", "('top.top_A_Op_Constant_7', 29)<-", "('top.a_inter', 29)<-Input"]

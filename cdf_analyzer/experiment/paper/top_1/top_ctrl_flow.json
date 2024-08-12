@@ -1,0 +1,38 @@
+{
+    "scfa_demo": {
+        "0": [
+            {
+                "var_name": "A_is_Max",
+                "loc": "d,6"
+            }
+        ],
+        "1": [
+            {
+                "var_name": "Result",
+                "loc": "d,10"
+            },
+            {
+                "var_name": "Result",
+                "loc": "d,12"
+            },
+            {
+                "var_name": "Result",
+                "loc": "d,13"
+            }
+        ]
+    },
+    "top": {
+        "2": [
+            {
+                "var_name": "top_ret",
+                "loc": "d,28"
+            }
+        ],
+        "0": [
+            {
+                "var_name": "a_inter",
+                "loc": "d,29"
+            }
+        ]
+    }
+}

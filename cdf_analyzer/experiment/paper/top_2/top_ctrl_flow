@@ -1,0 +1,6 @@
+module_name: scfa_demo, signal_name: A_is_Max, lineno: 6, ctrl_depth: 0, 
+module_name: scfa_demo, signal_name: Result, lineno: 10, ctrl_depth: 1, 
+module_name: scfa_demo, signal_name: Result, lineno: 12, ctrl_depth: 1, 
+module_name: scfa_demo, signal_name: Result, lineno: 13, ctrl_depth: 1, 
+module_name: top, signal_name: top_ret, lineno: 28, ctrl_depth: 2, 
+module_name: top, signal_name: a_inter, lineno: 29, ctrl_depth: 0, 

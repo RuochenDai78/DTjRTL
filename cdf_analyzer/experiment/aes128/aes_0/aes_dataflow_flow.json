@@ -1,0 +1,1060 @@
+{
+    "aes": {
+        "1": [
+            {
+                "var_name": "state",
+                "loc": "d,130"
+            },
+            {
+                "var_name": "ready_o",
+                "loc": "d,131"
+            },
+            {
+                "var_name": "round",
+                "loc": "d,132"
+            },
+            {
+                "var_name": "addroundkey_round",
+                "loc": "d,133"
+            },
+            {
+                "var_name": "addroundkey_data_reg",
+                "loc": "d,134"
+            },
+            {
+                "var_name": "addroundkey_ready_o",
+                "loc": "d,135"
+            },
+            {
+                "var_name": "addroundkey_start_i",
+                "loc": "d,136"
+            },
+            {
+                "var_name": "first_round_reg",
+                "loc": "d,137"
+            },
+            {
+                "var_name": "state",
+                "loc": "d,143"
+            },
+            {
+                "var_name": "ready_o",
+                "loc": "d,144"
+            },
+            {
+                "var_name": "round",
+                "loc": "d,145"
+            },
+            {
+                "var_name": "addroundkey_round",
+                "loc": "d,146"
+            },
+            {
+                "var_name": "addroundkey_data_reg",
+                "loc": "d,147"
+            },
+            {
+                "var_name": "addroundkey_ready_o",
+                "loc": "d,148"
+            },
+            {
+                "var_name": "first_round_reg",
+                "loc": "d,149"
+            },
+            {
+                "var_name": "addroundkey_start_i",
+                "loc": "d,150"
+            },
+            {
+                "var_name": "mixcol_start_i",
+                "loc": "d,174"
+            },
+            {
+                "var_name": "subbytes_start_i",
+                "loc": "d,175"
+            },
+            {
+                "var_name": "addroundkey_data_i",
+                "loc": "d,180"
+            },
+            {
+                "var_name": "subbytes_data_i",
+                "loc": "d,181"
+            },
+            {
+                "var_name": "mixcol_data_i",
+                "loc": "d,182"
+            },
+            {
+                "var_name": "addroundkey_data_i",
+                "loc": "d,188"
+            },
+            {
+                "var_name": "subbytes_data_i",
+                "loc": "d,189"
+            },
+            {
+                "var_name": "mixcol_data_i",
+                "loc": "d,190"
+            },
+            {
+                "var_name": "mixcol_data_i",
+                "loc": "d,196"
+            },
+            {
+                "var_name": "subbytes_data_i",
+                "loc": "d,197"
+            },
+            {
+                "var_name": "addroundkey_data_i",
+                "loc": "d,198"
+            },
+            {
+                "var_name": "next_state",
+                "loc": "d,210"
+            },
+            {
+                "var_name": "next_round",
+                "loc": "d,213"
+            },
+            {
+                "var_name": "next_round",
+                "loc": "d,215"
+            },
+            {
+                "var_name": "next_first_round_reg",
+                "loc": "d,217"
+            },
+            {
+                "var_name": "next_addroundkey_start_i",
+                "loc": "d,229"
+            },
+            {
+                "var_name": "addroundkey_data_i",
+                "loc": "d,230"
+            },
+            {
+                "var_name": "next_round",
+                "loc": "d,231"
+            },
+            {
+                "var_name": "next_addroundkey_start_i",
+                "loc": "d,237"
+            },
+            {
+                "var_name": "addroundkey_data_i",
+                "loc": "d,238"
+            },
+            {
+                "var_name": "next_round",
+                "loc": "d,239"
+            },
+            {
+                "var_name": "next_addroundkey_start_i",
+                "loc": "d,247"
+            },
+            {
+                "var_name": "mixcol_start_i",
+                "loc": "d,248"
+            },
+            {
+                "var_name": "addroundkey_data_i",
+                "loc": "d,253"
+            },
+            {
+                "var_name": "next_addroundkey_start_i",
+                "loc": "d,254"
+            },
+            {
+                "var_name": "next_round",
+                "loc": "d,255"
+            },
+            {
+                "var_name": "addroundkey_data_i",
+                "loc": "d,264"
+            },
+            {
+                "var_name": "subbytes_start_i",
+                "loc": "d,265"
+            },
+            {
+                "var_name": "next_ready_o",
+                "loc": "d,270"
+            },
+            {
+                "var_name": "next_state",
+                "loc": "d,271"
+            },
+            {
+                "var_name": "next_addroundkey_start_i",
+                "loc": "d,272"
+            },
+            {
+                "var_name": "next_round",
+                "loc": "d,273"
+            },
+            {
+                "var_name": "keysched_last_key_i",
+                "loc": "d,305"
+            },
+            {
+                "var_name": "round_key_var",
+                "loc": "d,318"
+            },
+            {
+                "var_name": "keysched_last_key_i",
+                "loc": "d,327"
+            }
+        ],
+        "2": [
+            {
+                "var_name": "next_state",
+                "loc": "d,161"
+            },
+            {
+                "var_name": "next_round",
+                "loc": "d,162"
+            },
+            {
+                "var_name": "next_addroundkey_start_i",
+                "loc": "d,173"
+            },
+            {
+                "var_name": "next_state",
+                "loc": "d,284"
+            },
+            {
+                "var_name": "round_data_var",
+                "loc": "d,298"
+            },
+            {
+                "var_name": "next_addroundkey_data_reg",
+                "loc": "d,299"
+            },
+            {
+                "var_name": "next_addroundkey_round",
+                "loc": "d,301"
+            },
+            {
+                "var_name": "addroundkey_data_o",
+                "loc": "d,302"
+            },
+            {
+                "var_name": "keysched_last_key_i",
+                "loc": "d,307"
+            },
+            {
+                "var_name": "keysched_round_i",
+                "loc": "d,311"
+            },
+            {
+                "var_name": "data_var",
+                "loc": "d,317"
+            },
+            {
+                "var_name": "round_data_var",
+                "loc": "d,319"
+            },
+            {
+                "var_name": "next_addroundkey_data_reg",
+                "loc": "d,320"
+            },
+            {
+                "var_name": "next_addroundkey_ready_o",
+                "loc": "d,321"
+            },
+            {
+                "var_name": "keysched_start_i",
+                "loc": "d,328"
+            },
+            {
+                "var_name": "keysched_round_i",
+                "loc": "d,329"
+            },
+            {
+                "var_name": "next_addroundkey_round",
+                "loc": "d,330"
+            },
+            {
+                "var_name": "next_addroundkey_round",
+                "loc": "d,336"
+            },
+            {
+                "var_name": "keysched_last_key_i",
+                "loc": "d,337"
+            },
+            {
+                "var_name": "keysched_start_i",
+                "loc": "d,338"
+            },
+            {
+                "var_name": "keysched_round_i",
+                "loc": "d,339"
+            },
+            {
+                "var_name": "data_var",
+                "loc": "d,345"
+            },
+            {
+                "var_name": "round_key_var",
+                "loc": "d,346"
+            },
+            {
+                "var_name": "round_data_var",
+                "loc": "d,347"
+            },
+            {
+                "var_name": "next_addroundkey_data_reg",
+                "loc": "d,348"
+            },
+            {
+                "var_name": "next_addroundkey_ready_o",
+                "loc": "d,349"
+            },
+            {
+                "var_name": "next_addroundkey_round",
+                "loc": "d,350"
+            },
+            {
+                "var_name": "sbox_decrypt_i",
+                "loc": "d,370"
+            }
+        ],
+        "3": [
+            {
+                "var_name": "data_o",
+                "loc": "d,163"
+            },
+            {
+                "var_name": "sbox_decrypt_i",
+                "loc": "d,363"
+            },
+            {
+                "var_name": "sbox_data_i",
+                "loc": "d,364"
+            },
+            {
+                "var_name": "sbox_data_i",
+                "loc": "d,371"
+            }
+        ]
+    },
+    "byte_mixcolum": {
+        "5": [
+            {
+                "var_name": "w1",
+                "loc": "d,468"
+            },
+            {
+                "var_name": "w2",
+                "loc": "d,469"
+            },
+            {
+                "var_name": "w3",
+                "loc": "d,470"
+            },
+            {
+                "var_name": "outx_var",
+                "loc": "d,477"
+            }
+        ],
+        "6": [
+            {
+                "var_name": "w4",
+                "loc": "d,471"
+            },
+            {
+                "var_name": "w5",
+                "loc": "d,472"
+            },
+            {
+                "var_name": "w6",
+                "loc": "d,473"
+            },
+            {
+                "var_name": "outx",
+                "loc": "d,478"
+            },
+            {
+                "var_name": "outy",
+                "loc": "d,479"
+            }
+        ],
+        "7": [
+            {
+                "var_name": "w7",
+                "loc": "d,474"
+            }
+        ],
+        "8": [
+            {
+                "var_name": "w8",
+                "loc": "d,475"
+            }
+        ]
+    },
+    "keysched": {
+        "3": [
+            {
+                "var_name": "rcon_o",
+                "loc": "d,581"
+            },
+            {
+                "var_name": "rcon_o",
+                "loc": "d,585"
+            },
+            {
+                "var_name": "rcon_o",
+                "loc": "d,589"
+            },
+            {
+                "var_name": "rcon_o",
+                "loc": "d,593"
+            },
+            {
+                "var_name": "rcon_o",
+                "loc": "d,597"
+            },
+            {
+                "var_name": "rcon_o",
+                "loc": "d,601"
+            },
+            {
+                "var_name": "rcon_o",
+                "loc": "d,605"
+            },
+            {
+                "var_name": "rcon_o",
+                "loc": "d,609"
+            },
+            {
+                "var_name": "rcon_o",
+                "loc": "d,613"
+            },
+            {
+                "var_name": "rcon_o",
+                "loc": "d,617"
+            },
+            {
+                "var_name": "rcon_o",
+                "loc": "d,621"
+            }
+        ],
+        "1": [
+            {
+                "var_name": "state",
+                "loc": "d,635"
+            },
+            {
+                "var_name": "col",
+                "loc": "d,636"
+            },
+            {
+                "var_name": "key_reg",
+                "loc": "d,637"
+            },
+            {
+                "var_name": "ready_o",
+                "loc": "d,638"
+            },
+            {
+                "var_name": "state",
+                "loc": "d,644"
+            },
+            {
+                "var_name": "col",
+                "loc": "d,645"
+            },
+            {
+                "var_name": "key_reg",
+                "loc": "d,646"
+            },
+            {
+                "var_name": "ready_o",
+                "loc": "d,647"
+            }
+        ],
+        "2": [
+            {
+                "var_name": "col_t",
+                "loc": "d,664"
+            },
+            {
+                "var_name": "next_state",
+                "loc": "d,667"
+            },
+            {
+                "var_name": "next_col",
+                "loc": "d,668"
+            },
+            {
+                "var_name": "next_key_reg",
+                "loc": "d,671"
+            },
+            {
+                "var_name": "new_key_o",
+                "loc": "d,672"
+            },
+            {
+                "var_name": "K_var",
+                "loc": "d,677"
+            },
+            {
+                "var_name": "col_t",
+                "loc": "d,688"
+            },
+            {
+                "var_name": "sbox_access_o",
+                "loc": "d,689"
+            },
+            {
+                "var_name": "sbox_data_o",
+                "loc": "d,690"
+            },
+            {
+                "var_name": "next_state",
+                "loc": "d,691"
+            },
+            {
+                "var_name": "sbox_access_o",
+                "loc": "d,699"
+            },
+            {
+                "var_name": "sbox_data_o",
+                "loc": "d,700"
+            },
+            {
+                "var_name": "next_col",
+                "loc": "d,702"
+            },
+            {
+                "var_name": "next_state",
+                "loc": "d,703"
+            },
+            {
+                "var_name": "sbox_access_o",
+                "loc": "d,710"
+            },
+            {
+                "var_name": "sbox_data_o",
+                "loc": "d,711"
+            },
+            {
+                "var_name": "next_col",
+                "loc": "d,713"
+            },
+            {
+                "var_name": "next_state",
+                "loc": "d,714"
+            },
+            {
+                "var_name": "sbox_access_o",
+                "loc": "d,721"
+            },
+            {
+                "var_name": "sbox_data_o",
+                "loc": "d,722"
+            },
+            {
+                "var_name": "next_col",
+                "loc": "d,724"
+            },
+            {
+                "var_name": "next_state",
+                "loc": "d,725"
+            },
+            {
+                "var_name": "sbox_access_o",
+                "loc": "d,732"
+            },
+            {
+                "var_name": "next_col",
+                "loc": "d,734"
+            },
+            {
+                "var_name": "next_ready_o",
+                "loc": "d,739"
+            },
+            {
+                "var_name": "next_key_reg",
+                "loc": "d,740"
+            },
+            {
+                "var_name": "next_state",
+                "loc": "d,741"
+            },
+            {
+                "var_name": "next_state",
+                "loc": "d,748"
+            }
+        ]
+    },
+    "mixcolum": {
+        "2": [
+            {
+                "var_name": "data_o",
+                "loc": "d,848"
+            },
+            {
+                "var_name": "data_i_var",
+                "loc": "d,895"
+            },
+            {
+                "var_name": "data_reg_var",
+                "loc": "d,896"
+            },
+            {
+                "var_name": "next_data_reg",
+                "loc": "d,897"
+            },
+            {
+                "var_name": "next_state",
+                "loc": "d,898"
+            },
+            {
+                "var_name": "next_data_o",
+                "loc": "d,903"
+            },
+            {
+                "var_name": "aux",
+                "loc": "d,911"
+            },
+            {
+                "var_name": "mix_word",
+                "loc": "d,912"
+            },
+            {
+                "var_name": "next_data_reg",
+                "loc": "d,914"
+            },
+            {
+                "var_name": "next_state",
+                "loc": "d,915"
+            },
+            {
+                "var_name": "aux",
+                "loc": "d,920"
+            },
+            {
+                "var_name": "mix_word",
+                "loc": "d,921"
+            },
+            {
+                "var_name": "next_data_reg",
+                "loc": "d,923"
+            },
+            {
+                "var_name": "next_state",
+                "loc": "d,924"
+            },
+            {
+                "var_name": "aux",
+                "loc": "d,928"
+            },
+            {
+                "var_name": "mix_word",
+                "loc": "d,929"
+            },
+            {
+                "var_name": "next_data_reg",
+                "loc": "d,931"
+            },
+            {
+                "var_name": "next_state",
+                "loc": "d,932"
+            },
+            {
+                "var_name": "aux",
+                "loc": "d,936"
+            },
+            {
+                "var_name": "mix_word",
+                "loc": "d,937"
+            },
+            {
+                "var_name": "next_data_o",
+                "loc": "d,939"
+            },
+            {
+                "var_name": "next_ready_o",
+                "loc": "d,940"
+            },
+            {
+                "var_name": "next_state",
+                "loc": "d,941"
+            }
+        ],
+        "1": [
+            {
+                "var_name": "outmux",
+                "loc": "d,857"
+            },
+            {
+                "var_name": "data_reg",
+                "loc": "d,869"
+            },
+            {
+                "var_name": "state",
+                "loc": "d,870"
+            },
+            {
+                "var_name": "ready_o",
+                "loc": "d,871"
+            },
+            {
+                "var_name": "data_o_reg",
+                "loc": "d,872"
+            },
+            {
+                "var_name": "data_reg",
+                "loc": "d,877"
+            },
+            {
+                "var_name": "state",
+                "loc": "d,878"
+            },
+            {
+                "var_name": "ready_o",
+                "loc": "d,879"
+            },
+            {
+                "var_name": "data_o_reg",
+                "loc": "d,880"
+            }
+        ]
+    },
+    "sbox": {
+        "1": [
+            {
+                "var_name": "to_invert",
+                "loc": "d,1044"
+            },
+            {
+                "var_name": "ah_reg",
+                "loc": "d,1045"
+            },
+            {
+                "var_name": "alph",
+                "loc": "d,1046"
+            },
+            {
+                "var_name": "to_invert",
+                "loc": "d,1052"
+            },
+            {
+                "var_name": "ah_reg",
+                "loc": "d,1053"
+            },
+            {
+                "var_name": "alph",
+                "loc": "d,1054"
+            }
+        ],
+        "4": [
+            {
+                "var_name": "first_mux_data_var",
+                "loc": "d,1070"
+            },
+            {
+                "var_name": "first_mux_aA",
+                "loc": "d,1103"
+            },
+            {
+                "var_name": "first_mux_aB",
+                "loc": "d,1104"
+            },
+            {
+                "var_name": "first_mux_aC",
+                "loc": "d,1105"
+            },
+            {
+                "var_name": "inversemap_alp_t",
+                "loc": "d,1172"
+            },
+            {
+                "var_name": "inversemap_ahp_t",
+                "loc": "d,1173"
+            },
+            {
+                "var_name": "d",
+                "loc": "d,1305"
+            }
+        ],
+        "5": [
+            {
+                "var_name": "first_mux_InvInput",
+                "loc": "d,1071"
+            },
+            {
+                "var_name": "al",
+                "loc": "d,1117"
+            },
+            {
+                "var_name": "ah",
+                "loc": "d,1118"
+            },
+            {
+                "var_name": "next_ah_reg",
+                "loc": "d,1119"
+            },
+            {
+                "var_name": "aA",
+                "loc": "d,1175"
+            },
+            {
+                "var_name": "aB",
+                "loc": "d,1176"
+            },
+            {
+                "var_name": "mul3_aA",
+                "loc": "d,1243"
+            },
+            {
+                "var_name": "mul3_aB",
+                "loc": "d,1244"
+            }
+        ],
+        "3": [
+            {
+                "var_name": "first_mux_aA",
+                "loc": "d,1078"
+            },
+            {
+                "var_name": "first_mux_aB",
+                "loc": "d,1078"
+            },
+            {
+                "var_name": "first_mux_aC",
+                "loc": "d,1079"
+            },
+            {
+                "var_name": "first_mux_aD",
+                "loc": "d,1079"
+            },
+            {
+                "var_name": "first_mux_InvInput",
+                "loc": "d,1094"
+            },
+            {
+                "var_name": "end_mux_aA",
+                "loc": "d,1140"
+            },
+            {
+                "var_name": "end_mux_aB",
+                "loc": "d,1140"
+            },
+            {
+                "var_name": "end_mux_aC",
+                "loc": "d,1141"
+            },
+            {
+                "var_name": "end_mux_aD",
+                "loc": "d,1141"
+            },
+            {
+                "var_name": "data_o",
+                "loc": "d,1151"
+            },
+            {
+                "var_name": "data_o",
+                "loc": "d,1157"
+            },
+            {
+                "var_name": "ahp",
+                "loc": "d,1229"
+            },
+            {
+                "var_name": "alp",
+                "loc": "d,1251"
+            },
+            {
+                "var_name": "inversion_aA",
+                "loc": "d,1299"
+            }
+        ],
+        "7": [
+            {
+                "var_name": "end_mux_data_var",
+                "loc": "d,1132"
+            },
+            {
+                "var_name": "alxh",
+                "loc": "d,1207"
+            },
+            {
+                "var_name": "next_alph",
+                "loc": "d,1321"
+            },
+            {
+                "var_name": "ah2",
+                "loc": "d,1337"
+            },
+            {
+                "var_name": "al2",
+                "loc": "d,1353"
+            }
+        ],
+        "6": [
+            {
+                "var_name": "inva",
+                "loc": "d,1187"
+            },
+            {
+                "var_name": "mul1_aA",
+                "loc": "d,1199"
+            },
+            {
+                "var_name": "mul1_a",
+                "loc": "d,1200"
+            }
+        ],
+        "2": [
+            {
+                "var_name": "mul2_aA",
+                "loc": "d,1221"
+            },
+            {
+                "var_name": "mul2_aB",
+                "loc": "d,1222"
+            },
+            {
+                "var_name": "inversion_to_invert_var",
+                "loc": "d,1296"
+            }
+        ],
+        "8": [
+            {
+                "var_name": "intermediate_aA",
+                "loc": "d,1264"
+            },
+            {
+                "var_name": "intermediate_aB",
+                "loc": "d,1265"
+            }
+        ],
+        "9": [
+            {
+                "var_name": "next_to_invert",
+                "loc": "d,1284"
+            }
+        ]
+    },
+    "subbytes": {
+        "1": [
+            {
+                "var_name": "data_reg",
+                "loc": "d,1502"
+            },
+            {
+                "var_name": "state",
+                "loc": "d,1503"
+            },
+            {
+                "var_name": "ready_o",
+                "loc": "d,1504"
+            },
+            {
+                "var_name": "data_reg",
+                "loc": "d,1510"
+            },
+            {
+                "var_name": "state",
+                "loc": "d,1511"
+            },
+            {
+                "var_name": "ready_o",
+                "loc": "d,1512"
+            },
+            {
+                "var_name": "sbox_decrypt_o",
+                "loc": "d,1563"
+            }
+        ],
+        "2": [
+            {
+                "var_name": "data_i_var",
+                "loc": "d,1526"
+            },
+            {
+                "var_name": "next_state",
+                "loc": "d,1565"
+            },
+            {
+                "var_name": "next_data_reg",
+                "loc": "d,1566"
+            },
+            {
+                "var_name": "data_o",
+                "loc": "d,1569"
+            },
+            {
+                "var_name": "sbox_data_o",
+                "loc": "d,1578"
+            },
+            {
+                "var_name": "next_state",
+                "loc": "d,1579"
+            },
+            {
+                "var_name": "next_data_reg",
+                "loc": "d,1632"
+            },
+            {
+                "var_name": "next_ready_o",
+                "loc": "d,1633"
+            },
+            {
+                "var_name": "next_state",
+                "loc": "d,1634"
+            },
+            {
+                "var_name": "sbox_data_o",
+                "loc": "d,1640"
+            },
+            {
+                "var_name": "next_data_reg",
+                "loc": "d,1659"
+            },
+            {
+                "var_name": "next_state",
+                "loc": "d,1660"
+            }
+        ]
+    },
+    "word_mixcolum": {
+        "3": [
+            {
+                "var_name": "in_var",
+                "loc": "d,1947"
+            }
+        ],
+        "4": [
+            {
+                "var_name": "a",
+                "loc": "d,1948"
+            },
+            {
+                "var_name": "b",
+                "loc": "d,1949"
+            },
+            {
+                "var_name": "c",
+                "loc": "d,1950"
+            },
+            {
+                "var_name": "d",
+                "loc": "d,1951"
+            }
+        ],
+        "8": [
+            {
+                "var_name": "outx",
+                "loc": "d,1968"
+            },
+            {
+                "var_name": "outy",
+                "loc": "d,1969"
+            }
+        ]
+    }
+}

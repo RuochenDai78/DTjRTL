@@ -1,0 +1,396 @@
+{
+    "uart": {
+        "1": [
+            {
+                "var_name": "rec_dataH",
+                "loc": "d,123"
+            },
+            {
+                "var_name": "rec_dataH",
+                "loc": "d,126"
+            },
+            {
+                "var_name": "rec_dataH_temp",
+                "loc": "d,133"
+            },
+            {
+                "var_name": "rec_dataH_temp",
+                "loc": "d,136"
+            }
+        ]
+    },
+    "u_rec": {
+        "2": [
+            {
+                "var_name": "rec_dataH",
+                "loc": "d,245"
+            },
+            {
+                "var_name": "next_state",
+                "loc": "d,287"
+            },
+            {
+                "var_name": "next_state",
+                "loc": "d,297"
+            },
+            {
+                "var_name": "next_state",
+                "loc": "d,299"
+            },
+            {
+                "var_name": "rstCountH",
+                "loc": "d,300"
+            },
+            {
+                "var_name": "rec_readyInH",
+                "loc": "d,301"
+            },
+            {
+                "var_name": "next_state",
+                "loc": "d,307"
+            },
+            {
+                "var_name": "next_state",
+                "loc": "d,308"
+            },
+            {
+                "var_name": "next_state",
+                "loc": "d,310"
+            },
+            {
+                "var_name": "cntr_resetH",
+                "loc": "d,311"
+            },
+            {
+                "var_name": "next_state",
+                "loc": "d,319"
+            },
+            {
+                "var_name": "next_state",
+                "loc": "d,321"
+            },
+            {
+                "var_name": "next_state",
+                "loc": "d,324"
+            },
+            {
+                "var_name": "cntr_resetH",
+                "loc": "d,325"
+            },
+            {
+                "var_name": "shiftH",
+                "loc": "d,330"
+            },
+            {
+                "var_name": "countH",
+                "loc": "d,331"
+            },
+            {
+                "var_name": "next_state",
+                "loc": "d,332"
+            },
+            {
+                "var_name": "next_state",
+                "loc": "d,337"
+            },
+            {
+                "var_name": "rec_readyInH",
+                "loc": "d,338"
+            },
+            {
+                "var_name": "next_state",
+                "loc": "d,342"
+            },
+            {
+                "var_name": "cntr_resetH",
+                "loc": "d,343"
+            },
+            {
+                "var_name": "shiftH",
+                "loc": "d,344"
+            },
+            {
+                "var_name": "countH",
+                "loc": "d,345"
+            },
+            {
+                "var_name": "rstCountH",
+                "loc": "d,346"
+            },
+            {
+                "var_name": "rec_readyInH",
+                "loc": "d,347"
+            }
+        ],
+        "1": [
+            {
+                "var_name": "rec_datSyncH",
+                "loc": "d,249"
+            },
+            {
+                "var_name": "rec_datH",
+                "loc": "d,250"
+            },
+            {
+                "var_name": "rec_datSyncH",
+                "loc": "d,252"
+            },
+            {
+                "var_name": "rec_datH",
+                "loc": "d,253"
+            },
+            {
+                "var_name": "bitCell_cntrH",
+                "loc": "d,258"
+            },
+            {
+                "var_name": "bitCell_cntrH",
+                "loc": "d,259"
+            },
+            {
+                "var_name": "bitCell_cntrH",
+                "loc": "d,260"
+            },
+            {
+                "var_name": "par_dataH",
+                "loc": "d,264"
+            },
+            {
+                "var_name": "recd_bitCntrH",
+                "loc": "d,272"
+            },
+            {
+                "var_name": "recd_bitCntrH",
+                "loc": "d,273"
+            },
+            {
+                "var_name": "recd_bitCntrH",
+                "loc": "d,274"
+            },
+            {
+                "var_name": "state",
+                "loc": "d,280"
+            },
+            {
+                "var_name": "state",
+                "loc": "d,281"
+            },
+            {
+                "var_name": "rec_readyH",
+                "loc": "d,358"
+            },
+            {
+                "var_name": "rec_readyH",
+                "loc": "d,359"
+            }
+        ]
+    },
+    "u_xmit": {
+        "3": [
+            {
+                "var_name": "uart_xmitH",
+                "loc": "d,469"
+            },
+            {
+                "var_name": "uart_xmitH",
+                "loc": "d,470"
+            },
+            {
+                "var_name": "uart_xmitH",
+                "loc": "d,471"
+            },
+            {
+                "var_name": "uart_xmitH",
+                "loc": "d,473"
+            }
+        ],
+        "2": [
+            {
+                "var_name": "uart_xmitH",
+                "loc": "d,472"
+            },
+            {
+                "var_name": "next_state",
+                "loc": "d,510"
+            },
+            {
+                "var_name": "xmitDataSelH",
+                "loc": "d,534"
+            },
+            {
+                "var_name": "next_state",
+                "loc": "d,536"
+            },
+            {
+                "var_name": "next_state",
+                "loc": "d,538"
+            },
+            {
+                "var_name": "countEnaH",
+                "loc": "d,539"
+            },
+            {
+                "var_name": "xmitDataSelH",
+                "loc": "d,544"
+            },
+            {
+                "var_name": "next_state",
+                "loc": "d,547"
+            },
+            {
+                "var_name": "next_state",
+                "loc": "d,549"
+            },
+            {
+                "var_name": "ena_bitCountH",
+                "loc": "d,550"
+            },
+            {
+                "var_name": "next_state",
+                "loc": "d,553"
+            },
+            {
+                "var_name": "countEnaH",
+                "loc": "d,554"
+            },
+            {
+                "var_name": "xmitDataSelH",
+                "loc": "d,561"
+            },
+            {
+                "var_name": "next_state",
+                "loc": "d,562"
+            },
+            {
+                "var_name": "shiftEnaH",
+                "loc": "d,563"
+            },
+            {
+                "var_name": "xmitDataSelH",
+                "loc": "d,568"
+            },
+            {
+                "var_name": "next_state",
+                "loc": "d,570"
+            },
+            {
+                "var_name": "xmit_doneInH",
+                "loc": "d,571"
+            },
+            {
+                "var_name": "next_state",
+                "loc": "d,573"
+            },
+            {
+                "var_name": "countEnaH",
+                "loc": "d,574"
+            },
+            {
+                "var_name": "next_state",
+                "loc": "d,581"
+            },
+            {
+                "var_name": "load_shiftRegH",
+                "loc": "d,582"
+            },
+            {
+                "var_name": "countEnaH",
+                "loc": "d,583"
+            },
+            {
+                "var_name": "shiftEnaH",
+                "loc": "d,584"
+            },
+            {
+                "var_name": "rst_bitCountH",
+                "loc": "d,585"
+            },
+            {
+                "var_name": "ena_bitCountH",
+                "loc": "d,586"
+            },
+            {
+                "var_name": "xmitDataSelH",
+                "loc": "d,587"
+            },
+            {
+                "var_name": "xmit_doneInH",
+                "loc": "d,588"
+            }
+        ],
+        "1": [
+            {
+                "var_name": "bitCell_cntrH",
+                "loc": "d,478"
+            },
+            {
+                "var_name": "bitCell_cntrH",
+                "loc": "d,479"
+            },
+            {
+                "var_name": "bitCell_cntrH",
+                "loc": "d,480"
+            },
+            {
+                "var_name": "xmit_ShiftRegH",
+                "loc": "d,483"
+            },
+            {
+                "var_name": "xmit_ShiftRegH",
+                "loc": "d,489"
+            },
+            {
+                "var_name": "xmit_ShiftRegH",
+                "loc": "d,493"
+            },
+            {
+                "var_name": "bitCountH",
+                "loc": "d,497"
+            },
+            {
+                "var_name": "bitCountH",
+                "loc": "d,498"
+            },
+            {
+                "var_name": "bitCountH",
+                "loc": "d,499"
+            },
+            {
+                "var_name": "state",
+                "loc": "d,503"
+            },
+            {
+                "var_name": "state",
+                "loc": "d,504"
+            },
+            {
+                "var_name": "next_state",
+                "loc": "d,523"
+            },
+            {
+                "var_name": "load_shiftRegH",
+                "loc": "d,524"
+            },
+            {
+                "var_name": "next_state",
+                "loc": "d,526"
+            },
+            {
+                "var_name": "rst_bitCountH",
+                "loc": "d,527"
+            },
+            {
+                "var_name": "xmit_doneInH",
+                "loc": "d,528"
+            },
+            {
+                "var_name": "xmit_doneH",
+                "loc": "d,610"
+            },
+            {
+                "var_name": "xmit_doneH",
+                "loc": "d,611"
+            }
+        ]
+    }
+}

@@ -1,0 +1,102 @@
+('uart_transceiver.enable16', 42, 2)
+["('uart.sys_rst', 205)<-", "('uart_transceiver.sys_rst', 20)<-", "('uart_transceiver.sys_rst', 45)<-", "('uart_transceiver.enable16_counter', 50)<-", "('uart_transceiver.enable16_counter', 39)<-", "('uart_transceiver.enable16_counter', 42)<-", "('uart_transceiver.enable16_counter_Op_Constant_0', 42)<-", "('uart_transceiver.enable16', 42)<-Input"]
+('uart_transceiver.enable16_counter', 46, 1)
+["('uart.sys_rst', 205)<-", "('uart_transceiver.sys_rst', 20)<-", "('uart_transceiver.sys_rst', 45)<-", "('uart_transceiver.enable16_counter', 46)<-Input"]
+('uart_transceiver.enable16_counter', 48, 1)
+["('uart.sys_rst', 205)<-", "('uart_transceiver.sys_rst', 20)<-", "('uart_transceiver.sys_rst', 45)<-", "('uart_transceiver.enable16_counter', 48)<-Input"]
+('uart_transceiver.enable16_counter', 50, 1)
+["('uart.sys_rst', 205)<-", "('uart_transceiver.sys_rst', 20)<-", "('uart_transceiver.sys_rst', 45)<-", "('uart_transceiver.enable16_counter', 50)<-Input"]
+('uart_transceiver.uart_rx1', 61, 1)
+["('uart.uart_rx', 207)<-", "('uart_transceiver.uart_rx', 23)<-", "('uart_transceiver.uart_rx', 61)<-", "('uart_transceiver.uart_rx1', 61)<-Input"]
+('uart_transceiver.uart_rx2', 62, 2)
+["('uart.uart_rx', 207)<-", "('uart_transceiver.uart_rx', 23)<-", "('uart_transceiver.uart_rx', 61)<-", "('uart_transceiver.uart_rx1', 61)<-", "('uart_transceiver.uart_rx1', 57)<-", "('uart_transceiver.uart_rx1', 62)<-", "('uart_transceiver.uart_rx2', 62)<-Input"]
+('uart_transceiver.rx_done', 75, 1)
+["('uart.sys_rst', 205)<-", "('uart_transceiver.sys_rst', 20)<-", "('uart_transceiver.sys_rst', 74)<-", "('uart_transceiver.rx_done', 75)<-Input"]
+('uart_transceiver.rx_busy', 76, 1)
+["('uart.sys_rst', 205)<-", "('uart_transceiver.sys_rst', 20)<-", "('uart_transceiver.sys_rst', 74)<-", "('uart_transceiver.rx_busy', 76)<-Input"]
+('uart_transceiver.rx_count16', 77, 1)
+["('uart.sys_rst', 205)<-", "('uart_transceiver.sys_rst', 20)<-", "('uart_transceiver.sys_rst', 74)<-", "('uart_transceiver.rx_count16', 77)<-Input"]
+('uart_transceiver.rx_bitcount', 78, 1)
+["('uart.sys_rst', 205)<-", "('uart_transceiver.sys_rst', 20)<-", "('uart_transceiver.sys_rst', 74)<-", "('uart_transceiver.rx_bitcount', 78)<-Input"]
+('uart_transceiver.rx_done', 80, 1)
+["('uart.sys_rst', 205)<-", "('uart_transceiver.sys_rst', 20)<-", "('uart_transceiver.sys_rst', 74)<-", "('uart_transceiver.rx_done', 80)<-Input"]
+('uart_transceiver.rx_busy', 85, 1)
+["('uart.sys_rst', 205)<-", "('uart_transceiver.sys_rst', 20)<-", "('uart_transceiver.sys_rst', 74)<-", "('uart_transceiver.rx_busy', 85)<-Input"]
+('uart_transceiver.rx_count16', 86, 1)
+["('uart.sys_rst', 205)<-", "('uart_transceiver.sys_rst', 20)<-", "('uart_transceiver.sys_rst', 74)<-", "('uart_transceiver.rx_count16', 86)<-Input"]
+('uart_transceiver.rx_bitcount', 87, 1)
+["('uart.sys_rst', 205)<-", "('uart_transceiver.sys_rst', 20)<-", "('uart_transceiver.sys_rst', 74)<-", "('uart_transceiver.rx_bitcount', 87)<-Input"]
+('uart_transceiver.rx_count16', 90, 1)
+["('uart.sys_rst', 205)<-", "('uart_transceiver.sys_rst', 20)<-", "('uart_transceiver.sys_rst', 74)<-", "('uart_transceiver.rx_count16', 90)<-Input"]
+('uart_transceiver.rx_bitcount', 93, 1)
+["('uart.sys_rst', 205)<-", "('uart_transceiver.sys_rst', 20)<-", "('uart_transceiver.sys_rst', 74)<-", "('uart_transceiver.rx_bitcount', 93)<-Input"]
+('uart_transceiver.rx_busy', 97, 1)
+["('uart.sys_rst', 205)<-", "('uart_transceiver.sys_rst', 20)<-", "('uart_transceiver.sys_rst', 74)<-", "('uart_transceiver.rx_busy', 97)<-Input"]
+('uart_transceiver.rx_busy', 99, 1)
+["('uart.sys_rst', 205)<-", "('uart_transceiver.sys_rst', 20)<-", "('uart_transceiver.sys_rst', 74)<-", "('uart_transceiver.rx_busy', 99)<-Input"]
+('uart_transceiver.rx_data', 101, 1)
+["('uart.sys_rst', 205)<-", "('uart_transceiver.sys_rst', 20)<-", "('uart_transceiver.sys_rst', 74)<-", "('uart_transceiver.rx_data', 101)<-Input"]
+('uart_transceiver.rx_done', 102, 1)
+["('uart.sys_rst', 205)<-", "('uart_transceiver.sys_rst', 20)<-", "('uart_transceiver.sys_rst', 74)<-", "('uart_transceiver.rx_done', 102)<-Input"]
+('uart_transceiver.rx_reg', 105, 1)
+["('uart.sys_rst', 205)<-", "('uart_transceiver.sys_rst', 20)<-", "('uart_transceiver.sys_rst', 74)<-", "('uart_transceiver.rx_reg', 105)<-Input"]
+('uart_transceiver.tx_done', 122, 1)
+["('uart.sys_rst', 205)<-", "('uart_transceiver.sys_rst', 20)<-", "('uart_transceiver.sys_rst', 121)<-", "('uart_transceiver.tx_done', 122)<-Input"]
+('uart_transceiver.tx_busy', 123, 1)
+["('uart.sys_rst', 205)<-", "('uart_transceiver.sys_rst', 20)<-", "('uart_transceiver.sys_rst', 121)<-", "('uart_transceiver.tx_busy', 123)<-Input"]
+('uart_transceiver.uart_tx', 124, 1)
+["('uart.sys_rst', 205)<-", "('uart_transceiver.sys_rst', 20)<-", "('uart_transceiver.sys_rst', 121)<-", "('uart_transceiver.uart_tx', 124)<-Input"]
+('uart_transceiver.tx_done', 126, 1)
+["('uart.sys_rst', 205)<-", "('uart_transceiver.sys_rst', 20)<-", "('uart_transceiver.sys_rst', 121)<-", "('uart_transceiver.tx_done', 126)<-Input"]
+('uart_transceiver.tx_reg', 128, 1)
+["('uart.sys_rst', 205)<-", "('uart_transceiver.sys_rst', 20)<-", "('uart_transceiver.sys_rst', 121)<-", "('uart_transceiver.tx_reg', 128)<-Input"]
+('uart_transceiver.tx_bitcount', 129, 1)
+["('uart.sys_rst', 205)<-", "('uart_transceiver.sys_rst', 20)<-", "('uart_transceiver.sys_rst', 121)<-", "('uart_transceiver.tx_bitcount', 129)<-Input"]
+('uart_transceiver.tx_count16', 130, 1)
+["('uart.sys_rst', 205)<-", "('uart_transceiver.sys_rst', 20)<-", "('uart_transceiver.sys_rst', 121)<-", "('uart_transceiver.tx_count16', 130)<-Input"]
+('uart_transceiver.tx_busy', 131, 1)
+["('uart.sys_rst', 205)<-", "('uart_transceiver.sys_rst', 20)<-", "('uart_transceiver.sys_rst', 121)<-", "('uart_transceiver.tx_busy', 131)<-Input"]
+('uart_transceiver.uart_tx', 132, 1)
+["('uart.sys_rst', 205)<-", "('uart_transceiver.sys_rst', 20)<-", "('uart_transceiver.sys_rst', 121)<-", "('uart_transceiver.uart_tx', 132)<-Input"]
+('uart_transceiver.tx_count16', 137, 1)
+["('uart.sys_rst', 205)<-", "('uart_transceiver.sys_rst', 20)<-", "('uart_transceiver.sys_rst', 121)<-", "('uart_transceiver.tx_count16', 137)<-Input"]
+('uart_transceiver.tx_bitcount', 140, 1)
+["('uart.sys_rst', 205)<-", "('uart_transceiver.sys_rst', 20)<-", "('uart_transceiver.sys_rst', 121)<-", "('uart_transceiver.tx_bitcount', 140)<-Input"]
+('uart_transceiver.uart_tx', 143, 1)
+["('uart.sys_rst', 205)<-", "('uart_transceiver.sys_rst', 20)<-", "('uart_transceiver.sys_rst', 121)<-", "('uart_transceiver.uart_tx', 143)<-Input"]
+('uart_transceiver.uart_tx', 145, 1)
+["('uart.sys_rst', 205)<-", "('uart_transceiver.sys_rst', 20)<-", "('uart_transceiver.sys_rst', 121)<-", "('uart_transceiver.uart_tx', 145)<-Input"]
+('uart_transceiver.tx_busy', 146, 1)
+["('uart.sys_rst', 205)<-", "('uart_transceiver.sys_rst', 20)<-", "('uart_transceiver.sys_rst', 121)<-", "('uart_transceiver.tx_busy', 146)<-Input"]
+('uart_transceiver.tx_done', 147, 1)
+["('uart.sys_rst', 205)<-", "('uart_transceiver.sys_rst', 20)<-", "('uart_transceiver.sys_rst', 121)<-", "('uart_transceiver.tx_done', 147)<-Input"]
+('uart_transceiver.uart_tx', 149, 1)
+["('uart.sys_rst', 205)<-", "('uart_transceiver.sys_rst', 20)<-", "('uart_transceiver.sys_rst', 121)<-", "('uart_transceiver.uart_tx', 149)<-Input"]
+('uart_transceiver.tx_reg', 150, 1)
+["('uart.sys_rst', 205)<-", "('uart_transceiver.sys_rst', 20)<-", "('uart_transceiver.sys_rst', 121)<-", "('uart_transceiver.tx_reg', 150)<-Input"]
+('uart.uart_tx', 220, 1)
+["('uart.uart_rx', 220)<-", "('Cond_45', 220)<-", "('uart.uart_tx', 220)<-Input"]
+('uart.csr_selected', 223, 1)
+["('uart.csr_a', 223)<-", "('uart.csr_a', 223)<-", "('uart.csr_a_Op_uart.csr_addr', 223)<-", "('uart.csr_selected', 223)<-Input"]
+('uart.tx_data', 225, 1)
+["('uart.csr_di', 225)<-", "('uart.csr_di', 225)<-", "('uart.tx_data', 225)<-Input"]
+('uart.tx_wr', 226, 1)
+["('uart.csr_a', 226)<-", "('uart.csr_a', 226)<-", "('uart.csr_a_Op_Constant_55', 226)<-", "('uart.csr_selected_Op_uart.csr_we_Op_uart.csr_a_Op_Constant_55', 226)<-", "('uart.tx_wr', 226)<-Input"]
+('uart.divisor', 232, 1)
+["('uart.sys_rst', 231)<-", "('uart.divisor', 232)<-Input"]
+('uart.csr_do', 233, 1)
+["('uart.sys_rst', 231)<-", "('uart.csr_do', 233)<-Input"]
+('uart.csr_do', 235, 1)
+["('uart.sys_rst', 231)<-", "('uart.csr_do', 235)<-Input"]
+('uart.csr_do', 238, 1)
+["('uart.csr_a', 237)<-", "('uart.csr_a', 237)<-", "('uart.csr_do', 238)<-Input"]
+('uart.csr_do', 239, 1)
+["('uart.csr_a', 237)<-", "('uart.csr_a', 237)<-", "('uart.csr_do', 239)<-Input"]
+('uart.csr_do', 240, 1)
+["('uart.csr_a', 237)<-", "('uart.csr_a', 237)<-", "('uart.csr_do', 240)<-Input"]
+('uart.divisor', 244, 1)
+["('uart.csr_a', 243)<-", "('uart.csr_a', 243)<-", "('uart.divisor', 244)<-Input"]
+('uart.divisor', 245, 1)
+["('uart.csr_a', 243)<-", "('uart.csr_a', 243)<-", "('uart.divisor', 245)<-Input"]
+('uart.thru', 246, 1)
+["('uart.csr_a', 243)<-", "('uart.csr_a', 243)<-", "('uart.thru', 246)<-Input"]
